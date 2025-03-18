@@ -18,3 +18,7 @@
 
 6.История commit
 -git iog
+
+7.Переключение на ветку
+-git checkout <branch_name>
+-git checkout -b <branch_name>(создать ветку-при отсутствии)
