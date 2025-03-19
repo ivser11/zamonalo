@@ -1,7 +1,6 @@
 import traceback
 
 
-# Это наш каш кулькулятор
 class Calculator:
     last_res = None
 
