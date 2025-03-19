@@ -23,7 +23,6 @@
 -git checkout <branch_name>
 -git checkout -b <branch_name>(создать ветку-при отсутствии)
 
-
 8.Обновляет код с удаленного репозитория
 -git pull
 
@@ -39,6 +38,7 @@
 
 12.Объединение веток
 -git merge
--
+-gyt rebase
+
 13.Подтягивает данныке из уд. репозитория
 -git fetch
