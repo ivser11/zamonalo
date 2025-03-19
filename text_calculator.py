@@ -6,5 +6,5 @@ from calculator import Calculator
 
 
 calc = Calculator()
-calc.divide(45, 5)
+calc.min(45, 5)
 calc.print_last_res()
