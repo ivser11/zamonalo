@@ -6,5 +6,5 @@ from calculator import Calculator
 
 
 calc = Calculator()
-calc.sum(45, 5)
+calc.divide(45, 5)
 calc.print_last_res()
